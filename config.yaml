@@ -1,0 +1,122 @@
+baseURL: https://examplesite.com
+title: Andressa Vedo
+theme: 
+paginate: '6'
+summaryLength: '10'
+disableLanguages: []
+googleAnalytics: ''
+disqusShortname: ''
+outputs:
+  home: HTML
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
+params:
+  author: Andressa
+  description: This is meta description
+  favicon: images/logo_av_adobespark1.png
+  logo_dark: images/logo-dark.png
+  logo_light: images/logo-dark.png
+  logo_width: 150px
+  plugins:
+    css:
+      - link: plugins/bootstrap/bootstrap.min.css
+      - link: https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+      - link: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css
+      - link: plugins/hover/hover.css
+      - link: plugins/magnific-popup/magnific-popup.css
+      - link: plugins/owl-carousel/owl.carousel.min.css
+      - link: plugins/owl-carousel/owl.theme.default.min.css
+      - link: plugins/text-animation/text-animation.css
+    js:
+      - link: plugins/jQuery/jquery.min.js
+      - link: plugins/bootstrap/bootstrap.min.js
+      - link: plugins/wow.min.js
+      - link: plugins/text-animation/text-animation.js
+      - link: plugins/jquery.waypoints.min.js
+      - link: plugins/shuffle/shuffle.min.js
+      - link: plugins/magnific-popup/jquery.magnific-popup.min.js
+      - link: plugins/owl-carousel/owl.carousel.min.js
+  preloader:
+    enable: yes
+    preloader: images/preloader.gif
+  social:
+    - icon: fab fa-facebook-f
+      link: https://www.facebook.com/andressa.vedo.5
+    - icon: fab fa-instagram
+      link: https://www.instagram.com/andressavedo/
+    #- icon: fab fa-twitter
+    #  link: https://twitter.com/somratpro
+    #- icon: fab fa-github
+    #  link: https://github.com/somratpro
+    #- icon: fab fa-linkedin
+    #  link: https://www.linkedin.com/in/somratpro
+Languages:
+  pt:
+    contentDir: content/portuguese
+    copyright: Copyright &copy; 2021 um tema hugo por [Andreson Azevedo](https://andresonazevedo.netlify.app/)
+    home: Home
+    languageCode: pt-br
+    languageName: Pt
+    menu:
+      main:
+        - name: Pagina Inicial
+          url: pt/
+          weight: 1
+        - name: Sobre
+          pre: 'pt/#'
+          url: about
+          weight: 2
+        - name: Serviços
+          pre: 'pt/#'
+          url: service
+          weight: 3
+        - name: Portfólio
+          pre: 'pt/#'
+          url: portfolio
+          weight: 4
+        - name: Testemunho
+          pre: 'pt/#'
+          url: testimonial
+          weight: 5
+        - name: Contato
+          pre: 'pt/#'
+          url: contact
+          weight: 6
+    weight: 1
+  en:
+    contentDir: content/english
+    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
+    home: Home
+    languageCode: en-us
+    languageName: En
+    menu:
+      main:
+        - name: Home
+          url: /
+          weight: 1
+        - name: About me
+          pre: '#'
+          url: about
+          weight: 2
+        - name: Service
+          pre: '#'
+          url: service
+          weight: 3
+        - name: Portfolio
+          pre: '#'
+          url: portfolio
+          weight: 4
+        - name: Testimonial
+          pre: '#'
+          url: testimonial
+          weight: 5
+        - name: Contact
+          pre: '#'
+          url: contact
+          weight: 6
+        - name: Blog
+          url: blog
+          weight: 7
+    weight: 2
