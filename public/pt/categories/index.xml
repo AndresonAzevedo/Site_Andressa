@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Andressa Vedo</title>
-    <link>https://examplesite.com/pt/categories/</link>
+    <link>https://andressavedo.netlify.app/pt/categories/</link>
     <description>Recent content in Categories on Andressa Vedo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>Copyright &amp;copy; 2021 um tema hugo por [Andreson Azevedo](https://andresonazevedo.netlify.app/)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://andressavedo.netlify.app/pt/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>database</title>
-      <link>https://examplesite.com/pt/categories/database/</link>
+      <link>https://andressavedo.netlify.app/pt/categories/database/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/pt/categories/database/</guid>
+      <guid>https://andressavedo.netlify.app/pt/categories/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>https://examplesite.com/pt/categories/design/</link>
+      <link>https://andressavedo.netlify.app/pt/categories/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/pt/categories/design/</guid>
+      <guid>https://andressavedo.netlify.app/pt/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://examplesite.com/pt/categories/development/</link>
+      <link>https://andressavedo.netlify.app/pt/categories/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/pt/categories/development/</guid>
+      <guid>https://andressavedo.netlify.app/pt/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>logo</title>
-      <link>https://examplesite.com/pt/categories/logo/</link>
+      <link>https://andressavedo.netlify.app/pt/categories/logo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/pt/categories/logo/</guid>
+      <guid>https://andressavedo.netlify.app/pt/categories/logo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sketch</title>
-      <link>https://examplesite.com/pt/categories/sketch/</link>
+      <link>https://andressavedo.netlify.app/pt/categories/sketch/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/pt/categories/sketch/</guid>
+      <guid>https://andressavedo.netlify.app/pt/categories/sketch/</guid>
       <description></description>
     </item>
     
