@@ -39,7 +39,14 @@ O comando **usethis::use_git()** abre o git na sua máquina, assumindo que o git
 
 O comando **usethis::use_github("usuário/reposítorio")** carrega o repositório para o **GiTHUB**
 
+no meu caso por exemplo: *usethis::use_github(organisation = "AndresonAzevedo/Sandbox")*
 
 instalar o pacote **blogdown** com o comando **install.packages('blogdown')**
 
+**obs:** se seu usuário não estiver conectado automaticamente,
+uma saida interessante, é criar uma chave e informa-lá para o R, via
+*gitcreds::gitcreds_set()*, vou apresentar um tutorial de como proceder.
+
+para baixar os arquivos do diretório apresentado anteriormente,
+utilizamos o comando **blogdown::new_site(".", theme = "somratpro/somrat")**
 
