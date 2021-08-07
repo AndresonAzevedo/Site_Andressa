@@ -1,0 +1,35 @@
+---
+title: "Construção site com Blogdown"
+author: "Andreson Almeida Azevedo"
+date: "07/08/2021"
+output: 
+  html_document:  
+    theme:  cerulean
+---
+
+# Passo 1
+
+O primeiro passo antes de iniciar com a construção do seu blog ou site deve acessar o link de [Temas **HUGO**](https://themes.gohugo.io/) que disponibiliza modelos prontos, em que você pode customizar como você desejar, o que torna bem mais rápido o processo. A escolha fica a seu critério, levando em conta, seu objetivos, nível de customização,etc.
+
+O tema que escolhi se chama **Somrat**, meu objetivo com ele é constuir uma página para minha irmã que trabalha como *Personal Trainer*.
+
+![Site com tema **Somrat**](img/print_site.png)
+
+Após a escolha do Tema basta apenas buscar qual o repositório do
+**GITHUB** está armazenado os arquivos do site, na imagem a seguir basta apenas clicar no botão **download**.
+
+![](img/print_site2.png)
+
+Após clicar em **download** você será direcionado para o diretório no **GITHUB** como apresentado na imagem a seguir:
+
+![Repositório **GITHUB**](img/repositorio_site_github.png)
+
+Do link abaixo, precisamos do nome do usuário e repositório, como apresentado abaixo **somratpro/somrat**
+
+![link repositório](img/link_repositorio_site.png)
+
+
+# Passo 2
+
+instalar o pacote **blogdown** com o comando **install.packages('blogdown')**
+
