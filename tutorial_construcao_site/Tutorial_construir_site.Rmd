@@ -24,12 +24,22 @@ Após clicar em **download** você será direcionado para o diretório no **GITH
 
 ![Repositório **GITHUB**](img/repositorio_site_github.png)
 
-Do link abaixo, precisamos do nome do usuário e repositório, como apresentado abaixo **somratpro/somrat**
+Do link abaixo, precisamos do nome do usuário e repositório, como apresentado abaixo **somratpro/somrat**.
 
 ![link repositório](img/link_repositorio_site.png)
 
 
 # Passo 2
 
+No **Rstudio** 
+
+
+O comando **usethis::use_git()** abre o git na sua máquina, assumindo que o git, esta instalado na máquina.
+
+
+O comando **usethis::use_github("usuário/reposítorio")** carrega o repositório para o **GiTHUB**
+
+
 instalar o pacote **blogdown** com o comando **install.packages('blogdown')**
+
 
