@@ -41,4 +41,4 @@ skill:
 title: CONHEÇA MAIS <br> SOBRE MIM
 ---
 
-Sou Andressa Azevedo, Personal Trainer. Amo exercitar meu corpo, e uma das minhas maiores motivações é levar saúde para as pessoas por meio do desenvolvimento físico. Auxilío com treinamentos de Hipertrofia, Emagrecimento, tambem desenvovemos exercícios focadas na manutenção da Saúde do Idoso e Gestante, Encontraremos juntos o treinamento adequado para seus objetivos. Fique conectado comigo........😊
+Sou Andressa Azevedo, Personal Trainer. Amo exercitar meu corpo, e uma das minhas maiores motivações é levar saúde para as pessoas por meio do desenvolvimento físico. Auxilío com treinamentos de Hipertrofia, Emagrecimento, tambem desenvolvo exercícios focados na manutenção da Saúde dos Idosos e Gestantes, Encontraremos juntos o treinamento adequado para seus objetivos. Fique conectado comigo........😊

@@ -41,4 +41,4 @@ skill:
 title: KNOW MORE <br> ABOUT ME
 ---
 
-I'm Andressa Azevedo, Personal Trainer. I love exercising my body, and one of my biggest motivations is to bring health to people through physical development. Assistance with training on Hypertrophy, Slimming, we also develop exercises focused on maintaining the Health of the Elderly and Pregnant Woman, We will find together the appropriate training for your goals. stay connected with me........😊
+I'm Andressa Azevedo, Personal Trainer. I love exercising my body, and one of my biggest motivations is to bring health to people through physical development. Assistance with training on Hypertrophy, Slimming, I also develop exercises focused on maintaining the Health of Elderly and Pregnant Women, We will find together the appropriate training for your goals. stay connected with me........😊
