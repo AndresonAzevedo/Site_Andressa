@@ -25,7 +25,7 @@ experience:
     duration: 2014-2018
     name: Database Manager
   title: EXPERIENCE
-image: images/backgrounds/portrait.jpg
+image: images/backgrounds/Andressa.png
 skill:
   enable: true
   skill_list:

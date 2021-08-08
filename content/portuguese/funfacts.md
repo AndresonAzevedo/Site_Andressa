@@ -6,7 +6,7 @@ custom_css: ""
 funfacts:
 - count: "100"
   image: images/icons/works.png
-  name: HANDS TO WORK
+  name: MÃOS À OBRA
 - count: "200"
   image: images/icons/happy.png
   name: CLIENTES FELIZES

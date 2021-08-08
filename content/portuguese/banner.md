@@ -8,7 +8,7 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 first_name: Andressa
-last_name: vedo
+last_name: VEDO
 occupations:
 - Personal Trainer
 - 
