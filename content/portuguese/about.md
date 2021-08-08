@@ -9,21 +9,30 @@ custom_css: ""
 experience:
   enable: true
   experience_list:
-  - company: Fiverr.com
-    content: I work with HTML, CSS, and Javascript to create websites and web applications
-      like Personal, Business, Blog, E-comerches etc.
-    duration: 2016-2018
-    name: Web Developer
-  - company: Fiverr.com
-    content: Graphic design is art with a purpose. I love illustration, so logo desing
-      is my favorite work. But i can do many things with graphics.
-    duration: 2015-2018
-    name: Graphic Designer
-  - company: Polytechnic
-    content: Database management is among the fundamental processes in the software
-      field of computing. I know MS Access very well.
-    duration: 2014-2018
-    name: Database Manager
+  - company: Acadêmia Mega Fitness
+    content: 
+    duration: 
+    name: Professora
+  - company: Acadêmia Top Hotel Cabana
+    content: 
+    duration: 
+    name: Professora
+  - company: T-max Fitness
+    content: 
+    duration:
+    name: Professora
+  - company: Escolinha de Futebol Boca Junior Arena
+    content: 
+    duration:
+    name: Secretária
+  - company: Acadêmia Sinapse
+    content: 
+    duration:
+    name: Recepcionista e Professora
+  - company: Ong Movimento Pela Paz na Periféria - MP3
+    content: 
+    duration:
+    name: Secretária
   title: EXPERIENCIA
 image: images/backgrounds/Andressa.png
 skill:
