@@ -1,6 +1,6 @@
 ---
 button:
-  enable: true
+  enable: false
   label: DOWNLOAD MY CV
   link: '#'
 custom_attributes: ""
@@ -27,7 +27,7 @@ experience:
   title: EXPERIENCE
 image: images/backgrounds/Andressa.png
 skill:
-  enable: true
+  enable: false
   skill_list:
   - name: Web Development
     percentage: 98%
@@ -41,4 +41,4 @@ skill:
 title: KNOW MORE <br> ABOUT ME
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+I'm Andressa Azevedo, Personal Trainer. I love exercising my body, and one of my biggest motivations is to bring health to people through physical development. Assistance with training on Hypertrophy, Slimming, we also develop exercises focused on maintaining the Health of the Elderly and Pregnant Woman, We will find together the appropriate training for your goals. stay connected with me........😊

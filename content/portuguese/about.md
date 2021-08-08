@@ -1,6 +1,6 @@
 ---
 button:
-  enable: true
+  enable: false
   label: Baixe meu Currículo
   link: '#'
 custom_attributes: ""
@@ -27,7 +27,7 @@ experience:
   title: EXPERIENCIA
 image: images/backgrounds/Andressa.png
 skill:
-  enable: true
+  enable: false
   skill_list:
   - name: Web Development
     percentage: 98%
@@ -41,4 +41,4 @@ skill:
 title: CONHEÇA MAIS <br> SOBRE MIM
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Sou Andressa Azevedo, Personal Trainer. Amo exercitar meu corpo, e uma das minhas maiores motivações é levar saúde para as pessoas por meio do desenvolvimento físico. Auxilío com treinamentos de Hipertrofia, Emagrecimento, tambem desenvovemos exercícios focadas na manutenção da Saúde do Idoso e Gestante, Encontraremos juntos o treinamento adequado para seus objetivos. Fique conectado comigo........😊

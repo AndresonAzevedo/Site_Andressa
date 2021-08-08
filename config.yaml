@@ -14,7 +14,7 @@ markup:
       unsafe: yes
 params:
   author: Andressa
-  description: This is meta description
+  description: Vem fazer parte do '#temandressavedo'
   favicon: images/logo_av_adobespark1.png
   logo_dark: images/logo-dark.png
   logo_light: images/logo-dark.png
@@ -55,7 +55,9 @@ params:
 Languages:
   pt:
     contentDir: content/portuguese
-    copyright: Copyright &copy; 2021 um tema hugo por [Andreson Azevedo](https://andresonazevedo.netlify.app/)
+    copyright: '<br>
+&copy; Copyright [Andreson Azevedo](https://andresonazevedo.netlify.app/) 2021. Todos os direitos reservados.<br> 
+Tema por [somrat](https://somrat.netlify.com). Site feito em Hugo com o pacote [{blogdown}](https://bookdown.org/yihui/blogdown/).'
     home: Home
     languageCode: pt-br
     languageName: Pt
@@ -72,22 +74,24 @@ Languages:
           pre: 'pt/#'
           url: service
           weight: 3
-        - name: Portfólio
-          pre: 'pt/#'
-          url: portfolio
-          weight: 4
-        - name: Testemunho
-          pre: 'pt/#'
-          url: testimonial
-          weight: 5
+        #- name: Portfólio
+        #  pre: 'pt/#'
+        #  url: portfolio
+        #  weight: 4
+        #- name: Testemunho
+        #  pre: 'pt/#'
+        # url: testimonial
+        #  weight: 5
         - name: Contato
           pre: 'pt/#'
           url: contact
-          weight: 6
+          weight: 4
     weight: 1
   en:
     contentDir: content/english
-    copyright: Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)
+    copyright: '<br>
+&copy; Copyright [Andreson Azevedo](https://andresonazevedo.netlify.app/) 2021. All rights reserved.<br> 
+Theme by [somrat](https://somrat.netlify.com). Website made in Hugo with the package [{blogdown}](https://bookdown.org/yihui/blogdown/).'
     home: Home
     languageCode: en-us
     languageName: En
@@ -104,19 +108,19 @@ Languages:
           pre: '#'
           url: service
           weight: 3
-        - name: Portfolio
-          pre: '#'
-          url: portfolio
-          weight: 4
-        - name: Testimonial
-          pre: '#'
-          url: testimonial
-          weight: 5
+        #- name: Portfolio
+        #  pre: '#'
+        #  url: portfolio
+        #  weight: 4
+        #- name: Testimonial
+        #  pre: '#'
+        #  url: testimonial
+        #  weight: 5
         - name: Contact
           pre: '#'
           url: contact
-          weight: 6
-        - name: Blog
-          url: blog
-          weight: 7
+          weight: 4
+        #- name: Blog
+        #  url: blog
+        #  weight: 7
     weight: 2

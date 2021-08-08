@@ -6,23 +6,23 @@
     <description>Recent content in database on Andressa Vedo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>Copyright &amp;copy; 2021 um tema hugo por [Andreson Azevedo](https://andresonazevedo.netlify.app/)</copyright>
+    <copyright>&lt;br&gt; &amp;copy; Copyright [Andreson Azevedo](https://andresonazevedo.netlify.app/) 2021. Todos os direitos reservados.&lt;br&gt; Tema por [somrat](https://somrat.netlify.com). Site feito em Hugo com o pacote [{blogdown}](https://bookdown.org/yihui/blogdown/).</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://andressavedo.netlify.app/pt/categories/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project Title</title>
-      <link>https://andressavedo.netlify.app/pt/portfolio/project-3/</link>
+      <link>https://andressavedo.netlify.app/pt/omitidos/portfolio/project-3/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://andressavedo.netlify.app/pt/portfolio/project-3/</guid>
+      <guid>https://andressavedo.netlify.app/pt/omitidos/portfolio/project-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Project Title</title>
-      <link>https://andressavedo.netlify.app/pt/portfolio/project-4/</link>
+      <link>https://andressavedo.netlify.app/pt/omitidos/portfolio/project-4/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://andressavedo.netlify.app/pt/portfolio/project-4/</guid>
+      <guid>https://andressavedo.netlify.app/pt/omitidos/portfolio/project-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

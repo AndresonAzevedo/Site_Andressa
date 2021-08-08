@@ -3,7 +3,7 @@ bg_image: images/backgrounds/Andressa_exercicio.png
 button:
   enable: true
   label: Contrate-me
-  link: '#contact'
+  link: 'pt/#contact'
 custom_attributes: ""
 custom_class: ""
 custom_css: ""

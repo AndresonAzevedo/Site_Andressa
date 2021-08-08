@@ -1,9 +1,9 @@
 ---
 bg_image: images/backgrounds/need-service.jpg
 button:
-  enable: true
+  enable: false
   label: DIGA OI!
-  link: '#contact'
+  link: 'pt/#contact'
 custom_attributes: ""
 custom_class: ""
 custom_css: ""
