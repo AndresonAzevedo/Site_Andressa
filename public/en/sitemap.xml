@@ -404,6 +404,18 @@
                 href="https://andressavedo.netlify.app/omitidos/funfacts/"
                 />
   </url><url>
+    <loc>https://andressavedo.netlify.app/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://andressavedo.netlify.app/pt/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://andressavedo.netlify.app/service/"
+                />
+  </url><url>
     <loc>https://andressavedo.netlify.app/banner/</loc>
     <xhtml:link
                 rel="alternate"
@@ -450,18 +462,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://andressavedo.netlify.app/contact/"
-                />
-  </url><url>
-    <loc>https://andressavedo.netlify.app/service/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://andressavedo.netlify.app/pt/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andressavedo.netlify.app/service/"
                 />
   </url><url>
     <loc>https://andressavedo.netlify.app/omitidos/testimonial/</loc>

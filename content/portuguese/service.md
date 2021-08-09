@@ -3,17 +3,19 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 service_list:
-- image: images/icons/web-development.png
-  name: Web Development
-- image: images/icons/graphic-design.png
-  name: Graphic Design
-- image: images/icons/dbms.png
-  name: Database Management
-- image: images/icons/software-development.png
-  name: Software Development
-- image: images/icons/marketing.png
-  name: Digital Marketing
-- image: images/icons/mobile-app.png
-  name: Mobile App Development
+- image: images/icons/Avaliacao-fisica.png
+  name: Avaliação Física
+- image: images/icons/treinamento-funcional.png
+  name: Avaliação funcional do idoso
+- image: images/icons/ginastica-laboral2.png
+  name: Ginástica laboral
+- image: images/icons/aprendizagem-online.png
+  name: Acompanhamento on-line
+- image: images/icons/Circuito-funcional3.png
+  name: Circuito Funcional
+- image: images/icons/balanca.png
+  name: Emagrecimento
+- image: images/icons/hipertrofia.png
+  name: Hipertrofia
 title: SERVIÇOS
 ---
