@@ -12,10 +12,10 @@ service_list:
 - image: images/icons/aprendizagem-online.png
   name: Online tracking
 - image: images/icons/Circuito-funcional3.png
-  name: Functional Circuit
+  name: Functional circuitx'
 - image: images/icons/balanca.png
-  name: slimming
+  name: Slimming
 - image: images/icons/hipertrofia.png
-  name: Hipertrofia
+  name: Hypertrophy
   title: SERVICES
 ---

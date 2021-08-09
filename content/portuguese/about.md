@@ -17,7 +17,7 @@ experience:
     content: 
     duration: 
     name: Professora
-  - company: T-max Fitness
+  - company: Acadêmia T-max Fitness
     content: 
     duration:
     name: Professora
