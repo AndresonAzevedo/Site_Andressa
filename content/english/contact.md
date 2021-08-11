@@ -4,7 +4,7 @@ custom_attributes: ""
 custom_class: ""
 custom_css: ""
 email: Email
-form_action: 'xayaprkd'
+form_action: 'https://formspree.io/f/xayaprkd'
 message: Message
 name: Name
 submit: Submit
