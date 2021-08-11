@@ -9,23 +9,23 @@ custom_css: ""
 experience:
   enable: true
   experience_list:
-  - company: Acadêmia Mega Fitness
+  - company: Acadêmia M. F
     content: 
     duration: 
     name: Professora
-  - company: Acadêmia Top Hotel Cabana
+  - company: Acadêmia T. H.C
     content: 
     duration: 
     name: Professora
-  - company: Acadêmia T-max Fitness
+  - company: Acadêmia T-M. F
     content: 
     duration:
     name: Professora
-  - company: Escolinha de Futebol Boca Junior Arena
+  - company: Escolinha F/ BJ
     content: 
     duration:
     name: Secretária
-  - company: Acadêmia Sinapse
+  - company: Acadêmia S.P
     content: 
     duration:
     name: Recepcionista e Professora
